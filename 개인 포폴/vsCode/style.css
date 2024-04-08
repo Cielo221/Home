@@ -1,8 +1,8 @@
-@import url("/reset.css");
+@import url("./reset.css");
 @import url("./font.css");
 
 .wrap {
-  width: 100vw;
+  width: 100%;
   height: 100vh;
   background: #212121;
 }
@@ -31,12 +31,16 @@ header {
 .header_right .nav ul {
   display: flex;
   gap: 55px;
-}
-.header_right .nav li {
   transition: all 0.3s;
 }
-.header_right .nav li:hover {
-  color: #a7a7a7;
+.header_right .nav ul:hover {
+  opacity: 0.3;
+}
+.header_right .nav ul li {
+  /* border: 1px solid #f00; */
+}
+.header_right .nav ul li:hover {
+  opacity: 1;
 }
 .header_right .header_toggle {
   width: 25px;
