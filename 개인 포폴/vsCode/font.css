@@ -1,0 +1,46 @@
+@font-face {
+  font-family: mainFont;
+  src: url(./font/Aclonica/Aclonica-Regular.ttf);
+}
+
+@font-face {
+  font-family: subFont;
+  src: url(./font/Oswald/Oswald-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: krFont1;
+  src: url(./font/S-Core_Dream_OTF/SCDream1.otf);
+}
+@font-face {
+  font-family: krFont2;
+  src: url(./font/S-Core_Dream_OTF/SCDream2.otf);
+}
+@font-face {
+  font-family: krFont3;
+  src: url(./font/S-Core_Dream_OTF/SCDream3.otf);
+}
+@font-face {
+  font-family: krFont4;
+  src: url(./font/S-Core_Dream_OTF/SCDream4.otf);
+}
+@font-face {
+  font-family: krFont5;
+  src: url(./font/S-Core_Dream_OTF/SCDream5.otf);
+}
+@font-face {
+  font-family: krFont6;
+  src: url(./font/S-Core_Dream_OTF/SCDream6.otf);
+}
+@font-face {
+  font-family: krFont7;
+  src: url(./font/S-Core_Dream_OTF/SCDream7.otf);
+}
+@font-face {
+  font-family: krFont8;
+  src: url(./font/S-Core_Dream_OTF/SCDream8.otf);
+}
+@font-face {
+  font-family: krFont9;
+  src: url(./font/S-Core_Dream_OTF/SCDream9.otf);
+}
